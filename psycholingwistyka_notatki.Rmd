@@ -1,0 +1,67 @@
+---
+title: "prezkapsychotekst"
+author: "Agata Zywert"
+date: "11 maja 2018"
+output: html_document
+---
+
+---
+title: "Percepcyjno-motoryczne efekty wspÛ≥zaleønoúci odpowiedü-dystraktor w mowie"
+author: "Kevin D. Roon, Adamantios I. Gafos"
+
+
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: reveal_libs
+    theme: solarized
+    
+    center: true
+    incremental: true
+---
+
+
+
+##### Badania, ukazujπ øe fonetyczne cechy mowy i szybko wypowiadania mogπ byÊ modulowane przez wiele bodücÛw, ktÛre docierajπ do mÛwcy.
+Schrefiers, Meyer, Levelt (1990) wskazujπ, øe szybkoúÊ reakcji (podanie nazwy przedmiotu z ilustracji) zwiÍksza siÍ jeúli s≥yszπ dystraktor, ktÛry rymujÍ siÍ z danπ nazwπ. Badania Galantucci et al. (2009) ukazujπ, øe kszas reakcji odnosi siÍ do efektu percepcyjno-motorycznego, poniewaø jest wspÛ≥zaleøne z procesem przygotowania wypowiedzi. 
+
+----
+
+## Eksperyment 1 - Efekt düwiÍkowy
+
+## Materia≥ i metody
+
+* 38 uczestnikÛw 
+* native speakerzy (american english)
+* Nie majπ niepe≥nosprawnoúci zwiπzanych z wymowπ i s≥uchem
+* 12 mÍøczyzn, 26 kobiet
+
+## Procedura
+
+* Siedzieli na przeciwko monitora, w düwiÍkoszczelnej kabinie, ze s≥uchawkami. Mieli siÍ nauczyÊ zestawÛw zawierajacych symbole odpowiadajπce danej sylabie (np. ## - ta) Komputer powtarza≥ jeden z symboli. Musieli wypowiadaÊ sylaby, ktÛrych siÍ nauczyli ignorujπc to co s≥yszπ w s≥uchawkach - ASAP. Ale nie za szybko, øeby nie zrobili b≥ÍdÛw. Najpierw Êwiczyli 2 razy. W kaødym bloku dwie reakcje spÛ≥g≥oska-samog≥oska, gdzie spÛ≥g≥oska by≥a podobna w artykulacji, ale inna w düwiÍku (np. ta/da), kaødy blok zaczyna≥ siÍ z instrukcja, ktÛra mÛwi≥a, øe bÍdπ wyúwietlane pary. Kaøda prÛba zaczyna≥a siÍ od oddzielenia prÛb pustym ekranem. 
+
+## Wyniki
+
+* Hipoteza, ktora byla testowana mÛwi≥a, øe jak dystraktory beda podobne w dzwieku, to odpowiedz bedzie szybsza. 
+* TABELA
+* Nie ma rÛønicy miÍdzy blokami, znaczenie mia≥ symbol, ale nie by≥o interakcji miedzy SOA a dystraktorem. 
+Szybciej odpowiadali z dystraktorem przystajπcym niz nieprzystajacym -> ale nie sπ statistic significant.
+
+---
+
+## Eksperyment 2 - efekt artykulatora
+
+## Metoda
+
+## Uczestnicy badania
+
+## Przebieg badania
+
+## Bodüce
+
+---
+
+
+
+
+
