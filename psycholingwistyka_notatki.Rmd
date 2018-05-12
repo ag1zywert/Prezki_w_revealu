@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ---
-title: "Percepcyjno-motoryczne efekty wsp�zale�no�ci odpowied�-dystraktor w mowie"
+title: "Percepcyjno-motoryczne efekty współzależności odpowiedź-dystraktor w mowie"
 author: "Kevin D. Roon, Adamantios I. Gafos"
 
 
@@ -22,42 +22,75 @@ output:
 
 
 
-##### Badania, ukazuj� �e fonetyczne cechy mowy i szybko wypowiadania mog� by� modulowane przez wiele bod�c�w, kt�re docieraj� do m�wcy.
-Schrefiers, Meyer, Levelt (1990) wskazuj�, �e szybko�� reakcji (podanie nazwy przedmiotu z ilustracji) zwi�ksza si� je�li s�ysz� dystraktor, kt�ry rymuj� si� z dan� nazw�. Badania Galantucci et al. (2009) ukazuj�, �e kszas reakcji odnosi si� do efektu percepcyjno-motorycznego, poniewa� jest wsp�zale�ne z procesem przygotowania wypowiedzi. 
+##### Badania, ukazują że fonetyczne cechy mowy i szybko wypowiadania mogą być modulowane przez wiele bodźców, które docierają do mówcy.
+Schrefiers, Meyer, Levelt (1990) wskazują, że szybkość reakcji (podanie nazwy przedmiotu z ilustracji) zwiększa się jeśli słyszą dystraktor, który rymuję się z daną nazwą. Badania Galantucci et al. (2009) ukazują, że kszas reakcji odnosi się do efektu percepcyjno-motorycznego, ponieważ jest współzależne z procesem przygotowania wypowiedzi. 
 
 ----
 
-## Eksperyment 1 - Efekt d�wi�kowy
+## Eksperyment 1 - Efekt dźwiękowy
 
-## Materia� i metody
+## Materiał i metody
 
-* 38 uczestnik�w 
+* 38 uczestników 
 * native speakerzy (american english)
-* Nie maj� niepe�nosprawno�ci zwi�zanych z wymow� i s�uchem
-* 12 m�czyzn, 26 kobiet
+* Nie mają niepełnosprawności związanych z wymową i słuchem
+* 12 mężczyzn, 26 kobiet
 
 ## Procedura
 
-* Siedzieli na przeciwko monitora, w d�wi�koszczelnej kabinie, ze s�uchawkami. Mieli si� nauczy� zestaw�w zawierajacych symbole odpowiadaj�ce danej sylabie (np. ## - ta) Komputer powtarza� jeden z symboli. Musieli wypowiada� sylaby, kt�rych si� nauczyli ignoruj�c to co s�ysz� w s�uchawkach - ASAP. Ale nie za szybko, �eby nie zrobili b��d�w. Najpierw �wiczyli 2 razy. W ka�dym bloku dwie reakcje sp�g�oska-samog�oska, gdzie sp�g�oska by�a podobna w artykulacji, ale inna w d�wi�ku (np. ta/da), ka�dy blok zaczyna� si� z instrukcja, kt�ra m�wi�a, �e b�d� wy�wietlane pary. Ka�da pr�ba zaczyna�a si� od oddzielenia pr�b pustym ekranem. 
+* Siedzieli na przeciwko monitora, w dźwiękoszczelnej kabinie, ze słuchawkami. Mieli się nauczyć zestawów zawierajacych symbole odpowiadające danej sylabie (np. ## - ta) Komputer powtarzał jeden z symboli. Musieli wypowiadać sylaby, których się nauczyli ignorując to co słyszą w słuchawkach - ASAP. Ale nie za szybko, żeby nie zrobili błędów. Najpierw ćwiczyli 2 razy. W każdym bloku dwie reakcje spółgłoska-samogłoska, gdzie spółgłoska była podobna w artykulacji, ale inna w dźwięku (np. ta/da), każdy blok zaczynał się z instrukcja, która mówiła, że będą wyświetlane pary. Każda próba zaczynała się od oddzielenia prób pustym ekranem. 
 
 ## Wyniki
 
-* Hipoteza, ktora byla testowana m�wi�a, �e jak dystraktory beda podobne w dzwieku, to odpowiedz bedzie szybsza. 
+* Hipoteza, ktora byla testowana mówiła, że jak dystraktory beda podobne w dzwieku, to odpowiedz bedzie szybsza. 
 * TABELA
-* Nie ma r�nicy mi�dzy blokami, znaczenie mia� symbol, ale nie by�o interakcji miedzy SOA a dystraktorem. 
-Szybciej odpowiadali z dystraktorem przystaj�cym niz nieprzystajacym -> ale nie s� statistic significant.
+* Nie ma różnicy między blokami, znaczenie miał symbol, ale nie było interakcji miedzy SOA a dystraktorem. 
+Szybciej odpowiadali z dystraktorem przystającym niz nieprzystajacym -> ale nie są statistic significant.
 
 ---
 
 ## Eksperyment 2 - efekt artykulatora
 
+artykulacja
+1. ruchy i układ narządów mowy podczas wymawiania głosek; też: wymawianie głoski»
+2. sposób wydobywania dźwięków przez śpiewaka lub instrumentalistę»
+
+
 ## Metoda
 
+Taka sama jak w eksperymencie 1, nie licząc drobnych zmian, o których wspomnę za chwilkę…
+
 ## Uczestnicy badania
+40 (nowych) uczestników – 5 wykluczonych z badania [bo nie zrozumieli, bo ciągle udzielali złych odpowiedzi, bo były błędy systemu] = 35 finalnie
+28 kobiet i 7 mężczyzn
+
 
 ## Przebieg badania
 
-## Bod�ce
+* cztery bloki [wstaw proszę tabelkę 3, okej z wielką chęcia Ada :))))))]
+* 1,3,4 bezdźwięczne „ustne” pauzy zawierające usta, koniuszek języka i grzbiet języka (odpowiedzi i zakłócenia różniły się tym, że jedne były słyszalne, drugie nie)
+* 2 blok dźwięczny zawsze „nosowy” 
+* sylaby zakłócające były zawsze słyszalnymi, ustnymi pauzami (ba, da, ga)
+* w blokach „właściwych” sylaby miały taki sam artykulator (np. ba-pa, da-na)
+* w blokach „niewłaściwych” artykulator był inny (np. ba-ta, da-ma)
+*każda kombinacja była przedstawiona 14 razy każda
+*Kolejne 28 prób w każdym bloku bez dystraktora (14 na odpowiedź) dało 280 prób na blok, 1120
+prób na uczestnika
+*wybór bloków był losowy dla uczestnika
+
+
+## Bodźce
+
+Dźwięk ”ba” i ton dystraktora były takie same jak te w Eksperymencie 1. Bodźce rozpraszające „da” i „ga” powstały z nagrań tego samego lektora w tej samej sesji nagrywaniowej, co w Eksperymencie 1 i przygotowane tą samą procedurą.
+
+## Wyniki
+
+Wyniki 35 uczestników dały 39 200 prób. 13 971 zostały odrzucone z tych samych powodów co w eksperymencie 1. 
+Czas odpowiedzi dla odpowiedzi nosowych był mierzony od początku widocznej energii okresowej? na spektogramie, a nie od zamknięcia ust, bo był to punkt bardziej wiarygodny.
+W badaniu testowano hipotezę, że kiedy odpowiedź i dystraktor miały taki sam artykulator (próba właściwa) reakcja powinna być szybsza niż, kiedy artykulator był inny (próba niewłaściwa). Wykres 3 pokazuje czasy reakcji w pojedynczych blokach dla każdej próby. 
+Tabela 4 pokazuje wyniki statystyczne. Czasy reakcji były wyraźnie któtsze, gdy był zastosowany pojedynczy dźwięk (ton), niż kiedy zastosowano „właściwy” (ten sam artykulator) dystraktor oraz, że czas reakcji był dłuższy przy zastosowaniu dystraktora „niewłaściwego” niż „właściwego”. 
+Za wykazano żadnego wpływu bloku lub interakcji między blokiem a typem dystraktora na wyniki. 
+
 
 ---
 
