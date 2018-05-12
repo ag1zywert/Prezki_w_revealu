@@ -1,5 +1,5 @@
 ---
-title: "Percepcyjno-motoryczne efekty wspó³zale¿noœci odpowiedŸ-dystraktor w mowie"
+title: "Percepcyjno-motoryczne efekty wspÃ³Å‚zaleÅ¼noÅ›ci odpowiedÅº-dystraktor w mowie"
 author: "Kevin D. Roon, Adamantios I. Gafos"
 
 
@@ -13,19 +13,19 @@ output:
     incremental: true
 ---
 
-##### Badania, ukazuj¹ ¿e fonetyczne cechy mowy i szybko wypowiadania mog¹ byæ modulowane przez wiele bodŸców, które docieraj¹ do mówcy.
-Schrefiers, Meyer, Levelt (1990) wskazuj¹, ¿e szybkoœæ reakcji (podanie nazwy przedmiotu z ilustracji) zwiêksza siê jeœli s³ysz¹ dystraktor, który rymujê siê z dan¹ nazw¹. Badania Galantucci et al. (2009) ukazuj¹, ¿e kszas reakcji odnosi siê do efektu percepcyjno-motorycznego, poniewa¿ jest wspó³zale¿ne z procesem przygotowania wypowiedzi. 
+##### Badania, ukazujÄ… Å¼e fonetyczne cechy mowy i szybko wypowiadania mogÄ… byÄ‡ modulowane przez wiele bodÅºcÃ³w, ktÃ³re docierajÄ… do mÃ³wcy.
+Schrefiers, Meyer, Levelt (1990) wskazujÄ…, Å¼e szybkoÅ›Ä‡ reakcji (podanie nazwy przedmiotu z ilustracji) zwiÄ™ksza siÄ™ jeÅ›li sÅ‚yszÄ… dystraktor, ktÃ³ry rymujÄ™ siÄ™ z danÄ… nazwÄ…. Badania Galantucci et al. (2009) ukazujÄ…, Å¼e kszas reakcji odnosi siÄ™ do efektu percepcyjno-motorycznego, poniewaÅ¼ jest wspÃ³Å‚zaleÅ¼ne z procesem przygotowania wypowiedzi.
 
 
 
-# Eksperyment 1 - Efekt dŸwiêkowy
+# Eksperyment 1 - Efekt dÅºwiÄ™kowy
 
-## Materia³ i metody
+## MateriaÅ‚ i metody
 
-* 38 uczestników 
+* 38 uczestnikÃ³w 
 * native speakerzy (american english)
-* Nie maj¹ niepe³nosprawnoœci zwi¹zanych z wymow¹ i s³uchem
-* 12 mê¿czyzn, 26 kobiet
+* Nie majÄ… niepeÅ‚nosprawnoÅ›ci zwiÄ…zanych z wymowÄ… i sÅ‚uchem
+* 12 mÄ™Å¼czyzn, 26 kobiet
 
 ## Procedura
 
@@ -41,8 +41,8 @@ Schrefiers, Meyer, Levelt (1990) wskazuj¹, ¿e szybkoœæ reakcji (podanie nazwy pr
 
 ## Uczestnicy badania
 
-* 35 uczestników
-* 28 kobiet i 7 mê¿czyzn
+* 35 uczestnikÃ³w
+* 28 kobiet i 7 mÄ™Å¼czyzn
 
 ## Przebieg badania
  
@@ -50,7 +50,7 @@ Schrefiers, Meyer, Levelt (1990) wskazuj¹, ¿e szybkoœæ reakcji (podanie nazwy pr
 
 
 
-## BodŸce
+## BodÅºce
 
 ## Wyniki
 
@@ -62,9 +62,9 @@ Schrefiers, Meyer, Levelt (1990) wskazuj¹, ¿e szybkoœæ reakcji (podanie nazwy pr
 
 ##Dyskusja
 
-* Wyniki eksperymentów potwierdzaj¹, ¿e jeœli reakcja i dystraktory s¹ podobne (nie na poziomie fonetycznym) to wp³ywa to na czas rekacji 
-* Badanie ukazuje, ¿e krótszy czas reakcji wi¹¿ê siê z u¿yciem dystraktora o podobnym sposobie artykulacji
-* Kody aktywowane w procesie planowania odpowiedzi s¹ równie¿ aktywowane automatycznie w trakcie postrzegania dystraktora
+* Wyniki eksperymentÃ³w potwierdzajÄ…, Å¼e jeÅ›li reakcja i dystraktory sÄ… podobne (nie na poziomie fonetycznym) to wpÅ‚ywa to na czas rekacji 
+* Badanie ukazuje, Å¼e krÃ³tszy czas reakcji wiÄ…Å¼Ä™ siÄ™ z uÅ¼yciem dystraktora o podobnym sposobie artykulacji
+* Kody aktywowane w procesie planowania odpowiedzi sÄ… rÃ³wnieÅ¼ aktywowane automatycznie w trakcie postrzegania dystraktora
 
 
 
